@@ -1,0 +1,24 @@
+/* add your CSS here */
+#card {
+    width: 300px;
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+#animal-info {
+    font-style: italic;
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+img {
+    width: 300px;
+}
+
+li {
+    list-style: none;
+}
+
+span {
+    font-weight: bold;
+}
